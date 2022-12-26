@@ -1,5 +1,4 @@
-#rainbow_text
-   	div{
+div{
        background-image: linear-gradient(to right, violet,indigo,blue,green,yellow,orange,red);
        -webkit-background-clip: text;
        color: transparent;
@@ -8,7 +7,6 @@
 }
          
          
-#background-lightblue
-         body{
+body{
   background-color: light blue;
 }
